@@ -1,2 +1,3 @@
 # CMOS-Inverter
-Cadence Virtuoso 
+ gdpk 180nm technology based CMOS Inverter Layout
+ 
