@@ -1,3 +1,3 @@
 # CMOS-Inverter
- gdpk 180nm technology based CMOS Inverter Layout
+ gpdk 180nm technology based CMOS Inverter simulation and layout design
  
